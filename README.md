@@ -36,7 +36,7 @@ https://github.com/yashvasoya09/animator/assets/1 20082183/ee19d 204-2ec5-4f5f-8
 
 
 <p>
-<img src = "https://github.com/yashvasoya09/animator/assets/120082183/610d2f18-d7d2-404d-ac8a-c7f792e208c7) height=" 30%"width=" 30%">
+<img src = "https://github.com/yashvasoya09/animator/assets/120082183/610d2f18-d7d2-404d-ac8a-c7f792e208c7" height=" 30%"width=" 30%">
 </p>
 
 
