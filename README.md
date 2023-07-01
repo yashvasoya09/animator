@@ -1,5 +1,3 @@
-![Screenshot_2023-07-01-15-32-32-35_04dca3ca954d3cf390f8722644cedc67](https://github.com/yashvasoya09/animator/assets/120082183/b01305cc-07a2-474d-916a-95d28d5c800c)# animator
-
 A new Flutter project.
 
 ## Getting Started
