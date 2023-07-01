@@ -14,10 +14,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-https://github.com/yashvasoya09/animator/assets/1 20082183/318854eb-b39a-4192-87ea-a6cafcdce932
 
 
-https://github.com/yashvasoya09/animator/assets/1 20082183/ee19d 204-2ec5-4f5f-85e7-aa09c87e96af
+https://github.com/yashvasoya09/animator/assets/120082183/69899706-8d2e-4ca0-bab5-d13b2b71fc70
+
+
+
+https://github.com/yashvasoya09/animator/assets/120082183/b40eef9a-2aae-4ff1-a9d2-4c3653b78d85
+
 
 
 <p>
