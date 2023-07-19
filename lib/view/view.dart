@@ -1,5 +1,6 @@
 import 'dart:math';
 
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -70,7 +71,10 @@ mainAxisAlignment: MainAxisAlignment.center,crossAxisAlignment: CrossAxisAlignme
             Text("${pc.data[index].name}",style: GoogleFonts.play(fontSize: 25,fontWeight: FontWeight.bold,color: Colors.black),),
             SizedBox(height: 20),
             Text("${pc.data[index].km}",style: GoogleFonts.play(fontSize: 25,fontWeight: FontWeight.bold,color: Colors.black),),
-            SizedBox(height: 20),
+            SizedBox(height: 40),
+          IconButton(onPressed: () {
+            Get.back();
+          }, icon: Icon(CupertinoIcons.back,color: Colors.black,))
           ],
         ),
       ),
