@@ -20,10 +20,6 @@ https://github.com/yashvasoya09/animator/assets/120082183/69899706-8d2e-4ca0-bab
 
 
 
-https://github.com/yashvasoya09/animator/assets/120082183/b40eef9a-2aae-4ff1-a9d2-4c3653b78d85
-
-
-
 <p>
 <img src = "https://github.com/yashvasoya09/animator/assets/120082183/cf06a9a6-7818-496e-9d95-85e381aeefa1" height=" 30%"width=" 30%">
 </p>
